@@ -1,0 +1,7 @@
+langchain-openai
+langchainhub
+langchain-chroma
+langchain
+playwright
+beautifulsoup4
+ipykernel

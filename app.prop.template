@@ -1,0 +1,13 @@
+API_TYPE=azure
+
+API_VERSION=2023-07-01-preview
+API_KEY=
+API_BASE=
+
+LLM_ENGINE_GPT35=gpt-35-turbo-16k
+LLM_ENGINE_GPT4=gpt-4
+LLM_ENGINE_GPT35_16K=gpt-35-turbo-16k
+ADA_MODEL=text-embedding-ada-002
+
+INDEX_DIR=../index/
+DOC_DIR=../docs/
